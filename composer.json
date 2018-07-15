@@ -1,0 +1,15 @@
+{
+    "name": "tuks128/fanburst-php-api",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Martin Liprt",
+            "email": "tuxxx128@protonmail.com"
+        }
+    ],
+	"autoload": {
+		"classmap": ["src/"]
+	},
+    "require": {}
+}
