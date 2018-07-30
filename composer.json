@@ -11,5 +11,9 @@
 	"autoload": {
 		"classmap": ["src/"]
 	},
-    "require": {}
+	"extra": {
+		"branch-alias": {
+			"dev-master": "v1.0"
+		}
+	}
 }
